@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "ft_btree.h": "c"
+    }
+}
